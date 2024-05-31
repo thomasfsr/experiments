@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Home/workspace/experiments/mlruns/691545211176375364/df9c8f9984ec4b08999fd8255a4f7755/artifacts
+end_time: 1717085949089
+entry_point_name: ''
+experiment_id: '691545211176375364'
+lifecycle_stage: active
+run_id: df9c8f9984ec4b08999fd8255a4f7755
+run_name: worried-sloth-301
+run_uuid: df9c8f9984ec4b08999fd8255a4f7755
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717085942746
+status: 3
+tags: []
+user_id: Home

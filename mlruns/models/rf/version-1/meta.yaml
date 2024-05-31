@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1717086214757
+current_stage: None
+description: ''
+last_updated_timestamp: 1717086214757
+name: rf
+run_id: b1cb311a46764308af9d6544ece88982
+run_link: ''
+source: file:///C:/Users/Home/workspace/experiments/mlruns/691545211176375364/b1cb311a46764308af9d6544ece88982/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///C:/Users/Home/workspace/experiments/mlruns/691545211176375364/b1cb311a46764308af9d6544ece88982/artifacts/model
+user_id: null
+version: 1

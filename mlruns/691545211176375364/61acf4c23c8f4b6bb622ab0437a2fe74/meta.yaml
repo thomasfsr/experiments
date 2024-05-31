@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Home/workspace/experiments/mlruns/691545211176375364/61acf4c23c8f4b6bb622ab0437a2fe74/artifacts
+end_time: 1717085929091
+entry_point_name: ''
+experiment_id: '691545211176375364'
+lifecycle_stage: active
+run_id: 61acf4c23c8f4b6bb622ab0437a2fe74
+run_name: sneaky-midge-537
+run_uuid: 61acf4c23c8f4b6bb622ab0437a2fe74
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717085922723
+status: 3
+tags: []
+user_id: Home

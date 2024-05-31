@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Home/workspace/experiments/mlruns/691545211176375364/f0a7259454e8449f8c1a3d7fe47989e4/artifacts
+end_time: 1717085909567
+entry_point_name: ''
+experiment_id: '691545211176375364'
+lifecycle_stage: active
+run_id: f0a7259454e8449f8c1a3d7fe47989e4
+run_name: nimble-elk-6
+run_uuid: f0a7259454e8449f8c1a3d7fe47989e4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717085895773
+status: 3
+tags: []
+user_id: Home

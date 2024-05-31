@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Home/workspace/experiments/mlruns/691545211176375364/ca4ea63da41449488557cdd606c059f2/artifacts
+end_time: 1717085973021
+entry_point_name: ''
+experiment_id: '691545211176375364'
+lifecycle_stage: active
+run_id: ca4ea63da41449488557cdd606c059f2
+run_name: serious-yak-650
+run_uuid: ca4ea63da41449488557cdd606c059f2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717085964793
+status: 3
+tags: []
+user_id: Home
