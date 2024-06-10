@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Home/workspace/experiments/mlruns/952837429942556291/6b7ce494d2da430fb45584978ca16f3f/artifacts
+end_time: 1718044127129
+entry_point_name: ''
+experiment_id: '952837429942556291'
+lifecycle_stage: active
+run_id: 6b7ce494d2da430fb45584978ca16f3f
+run_name: abundant-lamb-578
+run_uuid: 6b7ce494d2da430fb45584978ca16f3f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718044101876
+status: 3
+tags: []
+user_id: Home

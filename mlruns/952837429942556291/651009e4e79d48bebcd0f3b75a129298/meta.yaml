@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Home/workspace/experiments/mlruns/952837429942556291/651009e4e79d48bebcd0f3b75a129298/artifacts
+end_time: 1718044200923
+entry_point_name: ''
+experiment_id: '952837429942556291'
+lifecycle_stage: active
+run_id: 651009e4e79d48bebcd0f3b75a129298
+run_name: enthused-tern-240
+run_uuid: 651009e4e79d48bebcd0f3b75a129298
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718044186752
+status: 3
+tags: []
+user_id: Home

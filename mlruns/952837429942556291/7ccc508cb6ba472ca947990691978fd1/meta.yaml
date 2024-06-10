@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Home/workspace/experiments/mlruns/952837429942556291/7ccc508cb6ba472ca947990691978fd1/artifacts
+end_time: 1718044101851
+entry_point_name: ''
+experiment_id: '952837429942556291'
+lifecycle_stage: active
+run_id: 7ccc508cb6ba472ca947990691978fd1
+run_name: serious-dove-935
+run_uuid: 7ccc508cb6ba472ca947990691978fd1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718044082099
+status: 3
+tags: []
+user_id: Home

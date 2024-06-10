@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1718044186669
+current_stage: None
+description: null
+last_updated_timestamp: 1718044186669
+name: gbm_model_registered
+run_id: 3c86b7a09dd244f08c7c851c07c926db
+run_link: null
+source: file:///C:/Users/Home/workspace/experiments/mlruns/952837429942556291/3c86b7a09dd244f08c7c851c07c926db/artifacts/gbm_model
+status: READY
+status_message: null
+storage_location: file:///C:/Users/Home/workspace/experiments/mlruns/952837429942556291/3c86b7a09dd244f08c7c851c07c926db/artifacts/gbm_model
+user_id: null
+version: 17

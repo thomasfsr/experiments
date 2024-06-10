@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Home/workspace/experiments/mlruns/454143720584700814/ad38a7dd1f414d209ae074142ecdd95a/artifacts
+end_time: 1718042553060
+entry_point_name: ''
+experiment_id: '454143720584700814'
+lifecycle_stage: active
+run_id: ad38a7dd1f414d209ae074142ecdd95a
+run_name: carefree-skunk-229
+run_uuid: ad38a7dd1f414d209ae074142ecdd95a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718042525979
+status: 3
+tags: []
+user_id: Home

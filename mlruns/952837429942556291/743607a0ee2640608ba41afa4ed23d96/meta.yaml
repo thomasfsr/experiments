@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Home/workspace/experiments/mlruns/952837429942556291/743607a0ee2640608ba41afa4ed23d96/artifacts
+end_time: 1718044219864
+entry_point_name: ''
+experiment_id: '952837429942556291'
+lifecycle_stage: active
+run_id: 743607a0ee2640608ba41afa4ed23d96
+run_name: funny-loon-645
+run_uuid: 743607a0ee2640608ba41afa4ed23d96
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718044200935
+status: 3
+tags: []
+user_id: Home

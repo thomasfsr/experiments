@@ -9,6 +9,9 @@ readme = "README.md"
 python = "^3.11"
 scikit-learn = "^1.5.0"
 mlflow = "^2.13.1"
+yfinance = "^0.2.40"
+seaborn = "^0.13.2"
+ccxt = "^4.3.41"
 
 
 [build-system]

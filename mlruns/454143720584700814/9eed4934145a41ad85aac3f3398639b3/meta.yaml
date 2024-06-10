@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Home/workspace/experiments/mlruns/454143720584700814/9eed4934145a41ad85aac3f3398639b3/artifacts
+end_time: 1718042621959
+entry_point_name: ''
+experiment_id: '454143720584700814'
+lifecycle_stage: active
+run_id: 9eed4934145a41ad85aac3f3398639b3
+run_name: amazing-seal-954
+run_uuid: 9eed4934145a41ad85aac3f3398639b3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718042610864
+status: 3
+tags: []
+user_id: Home

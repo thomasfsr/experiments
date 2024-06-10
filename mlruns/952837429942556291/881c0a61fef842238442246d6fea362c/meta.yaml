@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Home/workspace/experiments/mlruns/952837429942556291/881c0a61fef842238442246d6fea362c/artifacts
+end_time: 1718044176545
+entry_point_name: ''
+experiment_id: '952837429942556291'
+lifecycle_stage: active
+run_id: 881c0a61fef842238442246d6fea362c
+run_name: amazing-conch-920
+run_uuid: 881c0a61fef842238442246d6fea362c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718044154659
+status: 3
+tags: []
+user_id: Home

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Home/workspace/experiments/mlruns/952837429942556291/3c86b7a09dd244f08c7c851c07c926db/artifacts
+end_time: 1718044186742
+entry_point_name: ''
+experiment_id: '952837429942556291'
+lifecycle_stage: active
+run_id: 3c86b7a09dd244f08c7c851c07c926db
+run_name: defiant-fowl-563
+run_uuid: 3c86b7a09dd244f08c7c851c07c926db
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718044176565
+status: 3
+tags: []
+user_id: Home
